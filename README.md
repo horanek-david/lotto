@@ -1,0 +1,2 @@
+# lotto
+Képfeldolgozás beadandó
